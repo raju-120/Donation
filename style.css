@@ -87,6 +87,9 @@ p{
 }
 
 /*-----Donation Plan----*/
+p{
+    color: black;
+}
 
 .flexable{
     width: 30%;
