@@ -11,7 +11,7 @@ body{
     color: orange;
     margin-bottom: 5px;
 }
-#head-p{
+.head-p{
     text-align: center;
     font-size: 20px;
     margin-top: 2em;
@@ -41,7 +41,7 @@ body{
 }
 
 /*------Donate part---*/
-#donate_head{
+.donate_head{
     text-align: center;
     font-weight: 900;
     font-size: 35px;
@@ -86,6 +86,24 @@ p{
     margin-top: 7rem;
 }
 
-/*-----Bounus Part----*/
+/*-----Donation Plan----*/
+
+.flexable{
+    width: 30%;
+    box-shadow: 15px 10px 10px gray;
+}
+#plan_chain{
+    background-color:  aliceblue;
+}
+#mid-paln-chain{
+    color: black;
+    background-color: mistyrose;
+}
+#end-plan-chain{
+    background-color: antiquewhite;
+}
+
+/*------Bonus Part----*/
+
 
 
