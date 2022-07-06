@@ -84,6 +84,7 @@ p{
 }
 .donation-section{
     margin-top: 7rem;
+    margin-bottom: 10%;
 }
 
 /*-----Donation Plan----*/
@@ -107,6 +108,70 @@ p{
 }
 
 /*------Bonus Part----*/
+.half-width{
+    width: 50%;
+}
+.bonus{
+    display: flex;
+    margin: 15px 15px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+.bonus_p{
+    text-align: justify;
+    padding: 15px;
+}
+#btn{
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(rgba(173, 20, 20, 0.823),tomato);
+}
+
+#img{
+    width: 100%;
+}
+
+.contact{
+    margin: 2%;
+    display: flex;
+    padding: 4em;
+    background-color: bisque;
+} 
+.input{
+    width: 25%;
+    margin-left: 35%;
+    padding: 15px;
+}
+.in_btn{
+    width: 80px;
+    height: 50px;
+    color: white;
+    background-image: linear-gradient(rgba(173, 20, 20, 0.823),tomato);
+}
+
+/*-----Footer-----*/
+
+#foot_head{
+    color:rgba(249, 163, 2, 0.905);
+}
 
 
+.foot_header{
+    text-align: center;
+    font-size: 25px;
+}
+.footer_massage{
+    text-align: center;
+    color: white;
+}
 
+.footer{
+    background-color: black;
+    padding: 10px;
+}
